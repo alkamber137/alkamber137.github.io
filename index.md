@@ -10,15 +10,13 @@ So I did. By far one of the most importanat things to me in this world - my sobr
 
 My sobriety date. The day I hit rock bottom. The day where life as I knew it ended and I truly started to live. 
 
-```markdown
-Syntax highlighted code block
 
 # Getting Sober
 ## Just Doing It - All 12 Steps
 ### Passing It On 
 
-- Bulleted
-- List
+- The 12 Steps to Alcoholics Anonymous
+https://www.aa.org/assets/en_US/smf-121_en.pdf
 
 1. Numbered
 2. List
