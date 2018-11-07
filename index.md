@@ -1,19 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome to My First Website
 
-You can use the [editor on GitHub](https://github.com/alkamber137/alkamber137.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I was told to create a website via Aaron Stannard over something that was important to me. He said it could be pics of my puppies or the kiddos or whatever. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I thought on that one a while and was really stuck on what to do my personal website over. I was really nervous about creating a website and was worried over how badly I was going to mess it up. My last phone call with my boss was one of the most inspirational. He stated don't just sit and worry about failing or not. Just do it. No YouTube videos for hours on end. No spirling down into the blackhole of never ending research - just take action. Even if it sucks. 
 
-### Markdown
+So I did. By far one of the most importanat things to me in this world - my sobriety. I doubt that is what he intended for me to write about ha ha ha but when it comes down to it, without my sobriety, I wouldn't have the life that I have today. I wouldn't be alive at all for that matter. So my sobriety is the topic to this website. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### November 25, 2012
+
+My sobriety date. The day I hit rock bottom. The day where life as I knew it ended and I truly started to live. 
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Getting Sober
+## Just Doing It - All 12 Steps
+### Passing It On 
 
 - Bulleted
 - List
@@ -23,15 +25,6 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alkamber137/alkamber137.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
