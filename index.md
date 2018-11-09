@@ -1,3 +1,13 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-129011205-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-129011205-1');
+</script>
+
 ## Welcome to My First Website
 
 I was told to create a website via Aaron Stannard over something that was important to me. He said it could be pics of my puppies or the kiddos or whatever. 
