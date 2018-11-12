@@ -41,7 +41,9 @@ My sobriety date. The day I hit rock bottom. The day where life as I knew it end
 11. Sought through prayer and meditation to improve our conscious contact with God as we understood Him, praying only for knowledge of His will for us and the power to carry that out.
 12. Having had a spiritual awakening as the result of these steps, we tried to carry this message to alcoholics, and to practice these principles in all our affairs.
 
+The AA program is simple, but it's the hardest thing you will ever do. For the first time in a long time - you have to be honest. Completely honest, with yourself. When you first walk in the rooms of AA you are told to sit down, take the cotton out of your ears and shove it in your mouth. What is the reason for this? We already know what you're going through - we have all been there in some shape, manner, or form. We offer a solution to the problems you walk in with. Kinda hard to get a solution if all you want to do is cover your ears and talk over everyone. 
 
+I choose to call that power today God but it changes from person to person. Some call the rooms of AA their higher power while others just use energy. I knew a woman once who made her higher power her cat (I do not advocate this ha ha ha) but the point is having faith in something bigger than yourself. 
 
 
 
