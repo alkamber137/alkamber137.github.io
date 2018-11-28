@@ -45,4 +45,4 @@ The AA program is simple, but it's the hardest thing you will ever do. For the f
 
 ![alt text](https://www.ussif.org/content_images/Guns%20image.jpg)
 
-![alt text](https://www.youtube.com/watch?v=-NgcStx_w7A)
+![alt video](https://www.youtube.com/watch?v=-NgcStx_w7A)
