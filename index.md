@@ -44,6 +44,3 @@ My sobriety date. The day I hit rock bottom. The day where life as I knew it end
 The AA program is simple, but it's the hardest thing you will ever do. For the first time in a long time - you will have to be honest. Completely honest - with yourself. When you first walk in the rooms of AA you are told to sit down, take the cotton out of your ears and shove it in your mouth. What is the reason for this? We already know what you're going through. We have all been there in some shape, manner, or form. We offer a solution to the problems you walk in with. Kinda hard to get a solution if all you want to do is cover your ears and talk over everyone. Honey - we are all quite aware of what hell looks like. Would you like to know how we got out of it?
 
 
-yourname.github.io/project-name/
-
-yourname.github.io/project-name/about
