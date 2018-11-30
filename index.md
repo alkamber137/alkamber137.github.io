@@ -48,33 +48,10 @@ The AA program is simple, but it's the hardest thing you will ever do. For the f
 
 <video src="https://mail.google.com/mail/u/1?ui=2&ik=43c6a05cbf&attid=0.1&permmsgid=msg-f:1618599779929716685&th=16766bec943c77cd&view=att&disp=safe&realattid=b96756b30936d6d9_0.1" poster="https://www.ussif.org/content_images/Guns%20image.jpg" width="320" height="200" controls preload></video>
 
-<!DOCTYPE html>
-<html>
-	<head>
-		<title>Hank Quinlan, Horrible Cop</title>
-		<!-- link to main stylesheet -->
-		<link rel="stylesheet" type="text/css" href="/css/main.css">
-	</head>
-	<body>
-		<nav>
-    		<ul>
+
         		<li><a href="/">Home</a></li>
 	        	<li><a href="/about">About</a></li>
         		<li><a href="/cv">CV</a></li>
         		<li><a href="/blog">Blog</a></li>
-    		</ul>
-		</nav>
-		<div class="container">
-    		<div class="blurb">
-        		<h1>Hi there, I'm Hank Quinlan!</h1>
-				<p>I'm best known as the horrible cop from <em>A Touch of Evil</em> Don't trust me. <a href="/about">Read more about my life...</a></p>
-    		</div><!-- /.blurb -->
-		</div><!-- /.container -->
-		<footer>
-    		<ul>
-        		<li><a href="mailto:hankquinlanhub@gmail.com">email</a></li>
-        		<li><a href="https://github.com/hankquinlan">github.com/hankquinlan</a></li>
-			</ul>
-		</footer>
-	</body>
-</html>
+    		
+        		
